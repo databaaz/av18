@@ -1,0 +1,10 @@
+name: av
+channels:
+	- https://conda.anaconda.org/menpo
+	- conda-forge
+dependencies:
+	- python==3.7.0
+	- matplotlib==2.2.2
+	- numpy==1.15.0
+	- pandas==0.23.3
+	- jupyter
