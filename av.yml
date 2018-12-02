@@ -9,3 +9,6 @@ dependencies:
     - pandas
     - jupyter
     - scipy
+	- tensorflow
+	- keras
+	- pillow
